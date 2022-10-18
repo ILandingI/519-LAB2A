@@ -21,4 +21,4 @@
 * What role does the pioasm “assembler” play in the example, and how does this interact with CMake?  
     To compile assembly code into a human-readable format. 
  ## 3.3
-Please check the [ws2812.c](https://github.com/ILandingI/519-LAB2A/blob/56f86636957b8849bad1edc862bbf55a0d9c086f/ws2812.c) and .h
+Please check the [ws2812.c](https://github.com/ILandingI/519-LAB2A/blob/56f86636957b8849bad1edc862bbf55a0d9c086f/ws2812.c) and [ws2812.h](https://github.com/ILandingI/519-LAB2A/blob/c693200a85aa2aecf698b595c7afc3d4ef9877b1/ws2812.h)
