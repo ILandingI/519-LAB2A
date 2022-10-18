@@ -29,4 +29,4 @@ Please check [3.4.xlsx](https://github.com/ILandingI/519-LAB2A/blob/90f021a891cc
 ## 3.5
 
 ##3.6
-Please check [3.6.xlsx]()
+Please check [3.6.xlsx](https://github.com/ILandingI/519-LAB2A/blob/b896ce90ec667b72470129840af3a3eff7c5f0e7/3.6.xlsx)
