@@ -27,6 +27,16 @@ Please check the [ws2812.c](https://github.com/ILandingI/519-LAB2A/blob/14f14066
 Please check [3.4.xlsx](https://github.com/ILandingI/519-LAB2A/blob/90f021a891cc5453c4455721e70423a7f292f400/3.4.xlsx)
 
 ## 3.5
+![3 5](https://user-images.githubusercontent.com/96441697/196379968-d00d1451-ed26-4b53-9dc9-f3d11494ece7.PNG)
 
 ## 3.6
 Please check [3.6.xlsx](https://github.com/ILandingI/519-LAB2A/blob/b896ce90ec667b72470129840af3a3eff7c5f0e7/3.6.xlsx)
+
+## 3.7
+![3 7](https://user-images.githubusercontent.com/96441697/196389416-46116d35-33b4-4ba8-8316-1d08bcfdd872.png)
+
+## 4 Hello, Blinkenlight!  
+  [ezgif-4-2c0eea5e1b](https://user-images.githubusercontent.com/96441697/196393320-c1b593d3-fcc5-4953-a8ff-e53d7e21b608.gif)
+
+
+
