@@ -36,7 +36,9 @@ Please check [3.6.xlsx](https://github.com/ILandingI/519-LAB2A/blob/b896ce90ec66
 ![3 7](https://user-images.githubusercontent.com/96441697/196389416-46116d35-33b4-4ba8-8316-1d08bcfdd872.png)
 
 ## 4 Hello, Blinkenlight!  
-  [ezgif-4-2c0eea5e1b](https://user-images.githubusercontent.com/96441697/196393320-c1b593d3-fcc5-4953-a8ff-e53d7e21b608.gif)
+It will blinken while print Hello World.
+![Screenshot 2022-10-14 225735](https://user-images.githubusercontent.com/96441697/196393627-b2a7fa48-d0e4-44c5-b92f-593e1a1c6ace.png)
+  [GIF](https://user-images.githubusercontent.com/96441697/196393320-c1b593d3-fcc5-4953-a8ff-e53d7e21b608.gif)
 
 
 
